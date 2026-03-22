@@ -2,6 +2,8 @@
   <img src="./banner.jpg" alt="Toaster Bug" width="100%" />
 </p>
 
+<p align="center">Build on Bags: BKzzC32qbNH7Gb2CMeZZM22dZvE4WhHuHamdCeajBAGS</p>
+
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/%40toly-verified-blue?logo=x&logoColor=white&labelColor=black)](https://x.com/toly)
 [![GitHub](https://img.shields.io/badge/aeyakovenko-verified-grey?logo=github&logoColor=white&labelColor=181717)](https://github.com/aeyakovenko)
