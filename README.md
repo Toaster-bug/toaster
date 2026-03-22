@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Toaster Bug" width="100%" />
+</p>
+
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/%40toly-verified-blue?logo=x&logoColor=white&labelColor=black)](https://x.com/toly)
+[![GitHub](https://img.shields.io/badge/aeyakovenko-verified-grey?logo=github&logoColor=white&labelColor=181717)](https://github.com/aeyakovenko)
+[![GitHub](https://img.shields.io/badge/solana--labs-verified-grey?logo=github&logoColor=white&labelColor=181717)](https://github.com/solana-labs)
+[![X](https://img.shields.io/badge/%40solana__devs-verified-blue?logo=x&logoColor=white&labelColor=black)](https://x.com/solana_devs)
+[![X](https://img.shields.io/badge/%40solana-verified-blue?logo=x&logoColor=white&labelColor=black)](https://x.com/solana)
+[![Solana Team](https://img.shields.io/badge/Solana_Team-verified-9945FF?style=flat-square&logo=solana&logoColor=white)](https://solana.com)
+
+## 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/Rust-stable-orange?logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-stable-blue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-stable-blue?logo=cplusplus&logoColor=white)
+
 Incremental Failure Injection in C
 ==================================
 
